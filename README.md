@@ -1,3 +1,5 @@
-Javascritpt Review Project by Rommel C. Quirimit
+#Javascript Review Project by Rommel C. Quirimit
 
 this project is a review of JavaScript concepts, from beginner to advanced
+
+#Updating file from github repo and pull changes to local
